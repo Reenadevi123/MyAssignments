@@ -3,7 +3,7 @@ package homeAssignments;
 public class Button extends WebElement{
 
 	public void submit(String string) {
-		System.out.println("submit it!!");
+		System.out.println("string");
 		
 	}
 	
